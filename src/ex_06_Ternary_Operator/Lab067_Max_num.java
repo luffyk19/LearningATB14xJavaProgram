@@ -1,6 +1,6 @@
 package ex_06_Ternary_Operator;
 
-public class Ternarytask2 {
+public class Lab067_Max_num {
     public static void main(String[] args) {
         int n1 = 2;
         int n2 = 9;
