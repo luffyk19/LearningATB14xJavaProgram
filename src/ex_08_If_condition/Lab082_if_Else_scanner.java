@@ -7,6 +7,10 @@ public class Lab082_if_Else_scanner {
         Scanner scanner = new Scanner(System.in);
         System.out.println("enter your age");
         int age = scanner.nextInt();
-        System.out.println(age);
+        if (age>18) {
+            System.out.println("you can go");
+        }else {
+            System.out.println("you can not go");
+        }
     }
 }
