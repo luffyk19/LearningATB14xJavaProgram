@@ -1,6 +1,6 @@
 package ex_21_OOPs_Encapsulation;
 
-public class Lab189_Ecap_Demo {
+/*public class Lab189_Ecap_Demo {
     public static void main(String[] args) {
        Website website = new Website("admin","pass123");
         System.out.println(website.password);
@@ -39,4 +39,4 @@ class Goodwebsit{
     }
 
     private String password;
-}
+}*/
